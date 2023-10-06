@@ -57,6 +57,7 @@ ignoreWords:
     - containerservice
     - databricks
     - dedb
+    - devcenter
     - devcontainer
     - dnsz
     - evgd
